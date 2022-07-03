@@ -59,6 +59,9 @@ header .fa-times{
 header .fa-arrow-left{
     color: var(--black);
 }
+header li ul {
+    /* bla bla */
+}
 header li{
     cursor: pointer;
 }
